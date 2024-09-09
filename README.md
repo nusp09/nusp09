@@ -1,6 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently working on a website
-🌱 I’m currently learning js and python
+I’m currently working on a website,
+I’m currently learning js and python
+and im still in secondary school working on a cs gcse
 
 <!--
 **nusp09/nusp09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
